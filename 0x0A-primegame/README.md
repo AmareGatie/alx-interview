@@ -1,1 +1,2 @@
-# PRIME GAME
+#0x22. Prime Game
+
